@@ -3,7 +3,12 @@
 > A complete step-by-step roadmap to become an AI Engineer in 2026.
 
 ---
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge)
 
+---
 ![AI Roadmap](images/roadmap.png)
 
 ## 📌 What You'll Learn
