@@ -13,14 +13,14 @@
 
 ## 📌 What You'll Learn
 
-- Python Programming
-- Mathematics for AI
-- Data Analysis
-- Machine Learning
-- Deep Learning
-- Generative AI
-- AI Projects
-- Deployment
+- [Python](#1️⃣-learn-python)
+- [Mathematics](#2️⃣-learn-mathematics)
+- [Data Analysis](#3️⃣-data-analysis)
+- [Machine Learning](#4️⃣-machine-learning)
+- [Deep Learning](#5️⃣-deep-learning)
+- [Generative AI](#6️⃣-generative-ai)
+- [Projects](#7️⃣-build-projects)
+- [Deployment](#8️⃣-deployment)
 
 ---
 
