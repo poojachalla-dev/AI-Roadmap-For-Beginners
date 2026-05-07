@@ -161,6 +161,16 @@ This roadmap is designed for:
 
 ---
 
+# 📖 How to Use This Repository
+
+1. Follow the roadmap step-by-step
+2. Complete the checklist
+3. Build projects
+4. Upload projects to GitHub
+5. Share your learning journey
+
+---
+
 # 📚 Recommended Resources
 
 | Topic | Resource |
