@@ -36,6 +36,18 @@
 
 ---
 
+# 🎯 Who Is This Roadmap For?
+
+This roadmap is designed for:
+- Students
+- Beginners in AI
+- Software Engineers
+- Data Analysts
+- Career Switchers
+- Self-Taught Developers
+
+---
+
 # 🛣️ AI Learning Roadmap
 
 ## 1️⃣ Learn Python
@@ -133,6 +145,19 @@
 - Flask
 - Hugging Face
 - Docker Basics
+
+---
+
+# 💼 AI Projects Roadmap
+
+| Level | Project |
+|---|---|
+| Beginner | Spam Classifier |
+| Beginner | Movie Recommendation System |
+| Intermediate | AI Chatbot |
+| Intermediate | Resume Analyzer |
+| Advanced | AI Voice Assistant |
+| Advanced | RAG Application |
 
 ---
 
