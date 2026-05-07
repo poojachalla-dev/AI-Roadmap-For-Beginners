@@ -11,6 +11,8 @@
 ---
 ![AI Roadmap](images/roadmap.png)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
 ## 📌 What You'll Learn
 
 - [Python](#1️⃣-learn-python)
