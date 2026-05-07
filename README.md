@@ -4,6 +4,8 @@
 
 ---
 
+![AI Roadmap](images/roadmap.png)
+
 ## 📌 What You'll Learn
 
 - Python Programming
