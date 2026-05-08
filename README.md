@@ -10,18 +10,7 @@ A complete step-by-step roadmap to become an AI Engineer in 2026.
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=900&lines=Become+an+AI+Engineer+Step-by-Step;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Build+Projects+%7C+Deploy+Apps+%7C+Get+Hired;Start+From+Zero+%7C+Learn+By+Building" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=poojachalla-dev&theme=tokyo-night)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poojachalla-dev&theme=default)
-
-<img src="https://streak-stats.demolab.com?user=poojachalla-dev&theme=default&hide_border=true" />
-
-</div>
-
+---
 
 <p align="center">
 
@@ -30,8 +19,8 @@ A complete step-by-step roadmap to become an AI Engineer in 2026.
 <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-00BFFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/AI-Roadmap-For-Beginners?style=for-the-badge"/>
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/AI-Roadmap-For-Beginners?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/poojachalla-dev/AI-Roadmap-For-Beginners?style=for-the-badge"/>
+<img src="https://img.shields.io/github/forks/poojachalla-dev/AI-Roadmap-For-Beginners?style=for-the-badge"/>
 
 </p>
 
@@ -340,9 +329,9 @@ AI-Roadmap-For-Beginners/
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=poojachalla-dev&show_icons=true&theme=tokyonight"/>
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=poojachalla-dev&theme=tokyonight"/>
 </p>
 
 ---
@@ -350,7 +339,7 @@ AI-Roadmap-For-Beginners/
 # 🧠 Top Languages
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachalla-dev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -358,7 +347,7 @@ AI-Roadmap-For-Beginners/
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/poojachalla-dev/poojachalla-dev/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -367,11 +356,11 @@ AI-Roadmap-For-Beginners/
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/poojachalla-dev">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/pooja-challa">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
