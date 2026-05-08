@@ -344,7 +344,7 @@ AI-Roadmap-For-Beginners/
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/pooja-challa">
+<a href="https://www.linkedin.com/in/poojachalla/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
