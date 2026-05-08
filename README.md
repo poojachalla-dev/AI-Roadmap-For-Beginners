@@ -10,8 +10,6 @@ A complete step-by-step roadmap to become an AI Engineer in 2026.
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=900&lines=Become+an+AI+Engineer+Step-by-Step;Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Build+Projects+%7C+Deploy+Apps+%7C+Get+Hired;Start+From+Zero+%7C+Learn+By+Building" />
 </p>
 
-![AI Roadmap](images/roadmap.png)
-
 ## 📊 GitHub Stats
 
 <div align="center">
