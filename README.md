@@ -336,22 +336,6 @@ AI-Roadmap-For-Beginners/
 
 ---
 
-# 🧠 Top Languages
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojachalla-dev&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/poojachalla-dev/poojachalla-dev/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p align="center">
