@@ -231,7 +231,7 @@ This roadmap is designed for:
 ## Beginner Projects
 
 * Spam/Sentiment Classifier
-* [Customer Churn Prediction](https://github.com/poojachalla-dev/Customer-Churn-Prediction-using-Logistic-Regression) |
+* [Customer Churn Prediction](https://github.com/poojachalla-dev/Customer-Churn-Prediction-using-Logistic-Regression) 
 * Movie Recommendation System
 
 ## Intermediate Projects
