@@ -231,7 +231,7 @@ This roadmap is designed for:
 ## Beginner Projects
 
 * Spam/Sentiment Classifier
-* Customer Churn Prediction
+* [Customer Churn Prediction](https://github.com/poojachalla-dev/Customer-Churn-Prediction-using-Logistic-Regression) |
 * Movie Recommendation System
 
 ## Intermediate Projects
@@ -257,7 +257,7 @@ This roadmap is designed for:
 | ------------ | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Beginner     | Spam Classifier                      | [SMS Spam Collection Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)               |
 | Beginner     | Movie Recommendation System          | [The Movies Dataset (Kaggle)](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) · [MovieLens (GroupLens, official)](https://grouplens.org/datasets/movielens/) |
-| Beginner     | Customer Churn Prediction            | [Telco Customer Churn (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) · [My Solution](https://github.com/poojachalla-dev/Customer-Churn-Prediction-using-Logistic-Regression) |
+| Beginner     | Customer Churn Prediction            | [Telco Customer Churn (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) 
 | Intermediate | Resume Analyzer                      | [Resume Dataset (Kaggle)](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)                                  |
 | Intermediate | Sales/Demand Forecasting             | [Rossmann Store Sales (Kaggle)](https://www.kaggle.com/c/rossmann-store-sales)                                           |
 | Intermediate | Image Classifier (Computer Vision)   | [Dogs vs. Cats (Kaggle)](https://www.kaggle.com/c/dogs-vs-cats) · [TensorFlow Transfer Learning Tutorial](https://www.tensorflow.org/tutorials/images/transfer_learning) |
